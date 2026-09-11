@@ -1,0 +1,6 @@
+{
+  "name": "School End-of-Year Report System",
+  "description": "ប្រព័ន្ធរបាយការណ៍បូកសរុបលទ្ធផលការងារអប់រំដំណាច់ឆ្នាំ រក្សាទុកទិន្នន័យលើ Cloud Firestore តាមផ្នែកនីមួយៗ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
